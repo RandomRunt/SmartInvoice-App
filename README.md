@@ -2,7 +2,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 # SmartInvoice App | UNSW Capstone Project
-**Full-Stack Invoice Management System**
+**Full-Stack Electronic Invoicing and Invoice Management System**
 
 ## Project Overview
 SmartInvoice is a modern, containerized invoice management system designed to streamline business-to-client billing workflows. Developed as a **Capstone Project at UNSW (COMP3900)**, the application focuses on robust data persistence, secure user authentication, and an automated notification pipeline.
